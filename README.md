@@ -57,27 +57,33 @@ A análise utiliza **Python**, **Pandas**, **Scikit-learn** e bibliotecas de vis
 ### 4.1 Distribuição de Churn
 - **71,2%** dos clientes permaneceram na empresa.
 - **25,7%** cancelaram o serviço.
-![Gráfico Distribuição de Churn]([imagens/churn_distribution.png](https://github.com/BrunoRomeu/TelecomX-An-lise-de-Churn-e-Modelagem-Preditiva/blob/main/TelecomX_assets/Distribui%C3%A7%C3%A3o%20de%20Churn.png))
+<div>
+  <img src="https://github.com/BrunoRomeu/TelecomX-An-lise-de-Churn-e-Modelagem-Preditiva/blob/main/TelecomX_assets/Distribui%C3%A7%C3%A3o%20de%20Churn.png">
+</div>
 
 ### 4.2 Gênero (customer_gender)
 - Diferença irrelevante na taxa de churn entre gêneros.
 
-### 3.3 Tipo de Contrato (account_Contract)
+### 4.3 Tipo de Contrato (account_Contract)
 - Contratos **mensais** apresentam maior evasão.
 - Contratos **anuais/bianuais** mostram maior fidelização.
-![Gráfico Contrato vs Churn](imagens/contract_churn.png)
-
+<div>
+  <img src="https://github.com/BrunoRomeu/TelecomX-An-lise-de-Churn-e-Modelagem-Preditiva/blob/main/TelecomX_assets/Distribui%C3%A7%C3%A3o%20de%20Churn.png">
+</div>
 ### 4.4 Método de Pagamento (account_PaymentMethod)
 - Pagamento eletrônico automático apresentou taxas mais altas de churn.
 
 ### 4.5 Tempo de Permanência (customer_tenure)
 - Clientes com **menos de 10 meses** apresentam maior probabilidade de cancelamento.
-![Gráfico Tenure vs Churn](imagens/tenure_churn.png)
+<div>
+  <img src="https://github.com/BrunoRomeu/TelecomX-An-lise-de-Churn-e-Modelagem-Preditiva/blob/main/TelecomX_assets/Distribui%C3%A7%C3%A3o%20de%20Churn.png">
+</div>
 
 ### 4.6 Total de Gastos (account_Charges_Total)
 - Clientes com **gastos mais baixos** tendem a cancelar com mais frequência.
-![Gráfico Gastos vs Churn](imagens/spend_churn.png)
-
+<div>
+  <img src="https://github.com/BrunoRomeu/TelecomX-An-lise-de-Churn-e-Modelagem-Preditiva/blob/main/TelecomX_assets/Distribui%C3%A7%C3%A3o%20de%20Churn.png">
+</div>
 ---
 
 ## 🤖 5. Modelagem Preditiva
