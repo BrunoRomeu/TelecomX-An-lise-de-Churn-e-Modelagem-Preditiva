@@ -55,9 +55,9 @@ A análise utiliza **Python**, **Pandas**, **Scikit-learn** e bibliotecas de vis
 ## 📊 4. Análise Exploratória de Dados (EDA)
 
 ### 4.1 Distribuição de Churn
-- **74%** dos clientes permaneceram na empresa.
-- **26%** cancelaram o serviço.
-![Gráfico Distribuição de Churn](imagens/churn_distribution.png)
+- **71,2%** dos clientes permaneceram na empresa.
+- **25,7%** cancelaram o serviço.
+![Gráfico Distribuição de Churn]([imagens/churn_distribution.png](https://github.com/BrunoRomeu/TelecomX-An-lise-de-Churn-e-Modelagem-Preditiva/blob/main/TelecomX_assets/Distribui%C3%A7%C3%A3o%20de%20Churn.png))
 
 ### 4.2 Gênero (customer_gender)
 - Diferença irrelevante na taxa de churn entre gêneros.
